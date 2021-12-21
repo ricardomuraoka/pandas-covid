@@ -1,4 +1,4 @@
-# pandas-covid
+# Análise COVID utilizando python
 ## Projeto utilizando pandas e matpotlib para análise de dados de covid por continentes
 
 ### Trazendo um dataset para de covid, limpando para que mostre dados absolutos e proporcionais, e demonstrando graficamente
